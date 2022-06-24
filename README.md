@@ -1,18 +1,26 @@
-# fbtool
-FB TOOL
-# INSTALLATION 
-'pkg update
+# Public Cloning
+Free Public Clone Commands ❤🥀
 
-'pkg upgrade 
+𝙴𝙽𝙹𝙾𝚈 𝙵𝚁𝙴𝙴 ❤🥀
 
-'pkg install git python
+pkg update
 
-'pip install requests 
+pkg upgrade
 
-'pip install bs4 
+pkg install git
 
-'pip install mechanize 
+pkg install python - python2
 
-'git clone https://github.com/HemtKhan/fbtool
-' cd fbtool'
-'python2 fbtool.py
+pip install requests
+
+pip install mechanize
+
+pip install bs4
+
+rm -rf Public
+
+git clone https://github.com/HemtKhan/fbtool
+
+cd fbtool
+
+python2 fbtool.py
