@@ -14,5 +14,5 @@ FB TOOL
 'pip install mechanize 
 
 'git clone https://github.com/HemtKhan/fbtool
-' cd fbtool
+' cd fbtool'
 'python2 fbtool.py
